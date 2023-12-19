@@ -1,0 +1,113 @@
+.fuel-button {
+  font-weight: bold;
+  font-size: 30px;
+  color: rgb(0, 0, 0);
+  border: none;
+  background-color:rgb(255, 255, 255);
+  
+  cursor: pointer;
+  transition: background-color 0.15s;
+  height: 50px;
+  width: 200px;
+}
+
+.fuel-button:hover {
+  opacity: 0.5;
+}
+
+.fuel-button:active {
+  opacity: 0.2;
+}
+
+.savings {
+  margin-left:10px;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 150;
+}
+
+.find-button {
+  margin-left:500px;
+  background-color: rgb(255, 255, 255);
+  border-width: 3px;
+  border: solid;
+  border-radius: 3px;
+  border-color: rgb(47, 93, 172);
+  color: rgb(47, 93, 172);
+  font-weight: bold;
+  cursor: pointer;
+  height: 35px;
+  transition: background-color 0.15s,
+    color 0.15s;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 12px;
+  padding-right: 12px;
+  vertical-align: top;
+}
+
+.find-button:hover {
+  background-color: rgb(47, 93, 172);
+  color:white;
+}
+
+.find-button:active {
+  opacity: 0.5;
+}
+
+body {
+  background-color:rgb(255, 255, 255);
+}
+
+img {
+  height: 50px;
+  width: 50px;
+}
+
+.searchbar {
+  margin-left: 31%;
+  height: 25px;
+  width: 150px;
+  cursor: pointer;
+}
+
+.searchbar:hover {
+  opacity: 0.5;
+}
+
+.searchbar:active {
+  opacity: 0.3;
+}
+
+.MAP_TEMP {
+  margin-left: 400px;
+  padding-top: 300px;
+  padding-bottom: 300px;
+  padding-left: 300px;
+  padding-right: 300px;
+  cursor: pointer;
+  border-color: gray;
+  border: solid;
+  border-radius: 4px;
+  transition: background-color 0.15s,
+    color 0.15s;
+}
+
+.MAP_TEMP:hover {
+  border-color: gray;
+  background-color: rgba(96, 162, 255, 0.718);
+  color: white;
+}
+
+.MAP_TEMP:active {
+  border-color:gray;
+  background-color: rgb(139, 177, 231);
+}
+
+input {
+  border-style: solid;
+  border-width: 5px 5px;
+  margin-left: 600px;
+  height: 20px;
+  width: 270px;
+}
