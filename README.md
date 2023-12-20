@@ -77,7 +77,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- CONTACT -->
 ## Contact
 
-Peter Le - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Peter Le - [@instagram_handle]([https://twitter.com/twitter_handle](https://www.instagram.com/petervolee/)) - petervole064@gmail.com
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
